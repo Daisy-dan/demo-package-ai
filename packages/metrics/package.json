@@ -1,0 +1,17 @@
+{
+  "name": "@demo-ai/metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.mts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsup": "8.5.0"
+  }
+}
